@@ -1,0 +1,134 @@
+{"accounts": [
+    {
+        "expenseNow": 1550,
+        "limitExpense": 10000,
+        "name": "Jovi",
+        "expenseList": "1) 22/03/2025: buy hoodie spend 50\n2) 02/02/2025: buy iphone spend 1500",
+        "expenses": [
+            {
+                "date": "22/03/2025",
+                "amount": 50,
+                "description": "buy hoodie",
+                "expense": "22/03/2025: buy hoodie spend 50"
+            },
+            {
+                "date": "02/02/2025",
+                "amount": 1500,
+                "description": "buy iphone",
+                "expense": "02/02/2025: buy iphone spend 1500"
+            }
+        ]
+    },
+    {
+        "expenseNow": 1230,
+        "limitExpense": 20000,
+        "name": "Aldino",
+        "expenseList": "1) 12/12/2024: buy iphone 15 spend 1200\n2) 19/03/2025: eat sushi spend 30",
+        "expenses": [
+            {
+                "date": "12/12/2024",
+                "amount": 1200,
+                "description": "buy iphone 15",
+                "expense": "12/12/2024: buy iphone 15 spend 1200"
+            },
+            {
+                "date": "19/03/2025",
+                "amount": 30,
+                "description": "eat sushi",
+                "expense": "19/03/2025: eat sushi spend 30"
+            }
+        ]
+    },
+    {
+        "expenseNow": 27,
+        "limitExpense": 100,
+        "name": "Realytha",
+        "expenseList": "1) 20/03/2025: buy teadot spend 15\n2) 21/03/2025: buy chatime spend 12",
+        "expenses": [
+            {
+                "date": "20/03/2025",
+                "amount": 15,
+                "description": "buy teadot",
+                "expense": "20/03/2025: buy teadot spend 15"
+            },
+            {
+                "date": "21/03/2025",
+                "amount": 12,
+                "description": "buy chatime",
+                "expense": "21/03/2025: buy chatime spend 12"
+            }
+        ]
+    },
+    {
+        "expenseNow": 27,
+        "limitExpense": 100000,
+        "name": "Karen",
+        "expenseList": "1) 10/03/2025: buy tim hortons spend 5\n2) 15/03/2025: buy cookies spend 10\n3) 18/03/2025: lunch spend 12",
+        "expenses": [
+            {
+                "date": "10/03/2025",
+                "amount": 5,
+                "description": "buy tim hortons",
+                "expense": "10/03/2025: buy tim hortons spend 5"
+            },
+            {
+                "date": "15/03/2025",
+                "amount": 10,
+                "description": "buy cookies",
+                "expense": "15/03/2025: buy cookies spend 10"
+            },
+            {
+                "date": "18/03/2025",
+                "amount": 12,
+                "description": "lunch",
+                "expense": "18/03/2025: lunch spend 12"
+            }
+        ]
+    },
+    {
+        "expenseNow": 47,
+        "limitExpense": 500,
+        "name": "Jonathan",
+        "expenseList": "1) 22/03/2025: groceries spend 35\n2) 22/03/2025: lunch spend 12",
+        "expenses": [
+            {
+                "date": "22/03/2025",
+                "amount": 35,
+                "description": "groceries",
+                "expense": "22/03/2025: groceries spend 35"
+            },
+            {
+                "date": "22/03/2025",
+                "amount": 12,
+                "description": "lunch",
+                "expense": "22/03/2025: lunch spend 12"
+            }
+        ]
+    },
+    {
+        "expenseNow": 0,
+        "limitExpense": 1500,
+        "name": "Nadine",
+        "expenseList": "\nno saved expense",
+        "expenses": []
+    },
+    {
+        "expenseNow": 0,
+        "limitExpense": 1000,
+        "name": "Naurah",
+        "expenseList": "\nno saved expense",
+        "expenses": []
+    },
+    {
+        "expenseNow": 2300,
+        "limitExpense": 100000,
+        "name": "Jefferson",
+        "expenseList": "1) 02/03/2025: buy Fujifilm x100vi spend 2300",
+        "expenses": [{
+            "date": "02/03/2025",
+            "amount": 2300,
+            "description": "buy Fujifilm x100vi",
+            "expense": "02/03/2025: buy Fujifilm x100vi spend 2300"
+        }]
+    }
+]}

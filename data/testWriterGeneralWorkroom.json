@@ -1,0 +1,40 @@
+{"accounts": [
+    {
+        "expenseNow": 900,
+        "limitExpense": 1000,
+        "name": "Jonathan",
+        "expenseList": "1) 1/2/2025: Buy Iphone 15 spend 900",
+        "expenses": [{
+            "date": "1/2/2025",
+            "amount": 900,
+            "description": "Buy Iphone 15",
+            "expense": "1/2/2025: Buy Iphone 15 spend 900"
+        }]
+    },
+    {
+        "expenseNow": 1650,
+        "limitExpense": 2000,
+        "name": "Aldino",
+        "expenseList": "1) 10/1/2025: Buy Laptop spend 1500\n2) 1/2/2025: Lunch spend 50\n3) 14/2/2025: Dinner spend 100",
+        "expenses": [
+            {
+                "date": "10/1/2025",
+                "amount": 1500,
+                "description": "Buy Laptop",
+                "expense": "10/1/2025: Buy Laptop spend 1500"
+            },
+            {
+                "date": "1/2/2025",
+                "amount": 50,
+                "description": "Lunch",
+                "expense": "1/2/2025: Lunch spend 50"
+            },
+            {
+                "date": "14/2/2025",
+                "amount": 100,
+                "description": "Dinner",
+                "expense": "14/2/2025: Dinner spend 100"
+            }
+        ]
+    }
+]}
